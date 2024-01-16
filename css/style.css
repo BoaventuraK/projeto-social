@@ -32,7 +32,7 @@ section#telefone{
 section#telefone > iframe{
     position: absolute;
     height: 471px;
-    width: 270px;
+    width: 266px;
 
     top: 50%;
     left: 50%;
